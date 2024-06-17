@@ -1,11 +1,12 @@
 
-<p align="center">
-<a href="https://lean-sat.org/opensource/" class="button icon calendar">Join Monthly Webinar</a>
-</p>
-
 <div align="center">
-<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/fd3ff8ed-76a4-4b20-aec6-1a9d83f25005">
+  <a href="https://lean-sat.org/opensource/">
+  <img alt="Join the monthly community webinars" src="https://img.shields.io/badge/join_our-monthly_webinars-orange" />
+  </a>
 </div>
+
+
+<img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/fd3ff8ed-76a4-4b20-aec6-1a9d83f25005"> <img width="25%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/5cb7bd65-6989-4c46-8026-098282452dca">
 
 
 # BIRDS5-Parts_list
@@ -13,8 +14,6 @@
 
 
 ## About the BIRDS5 Program:
-
-<img width="50%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/5cb7bd65-6989-4c46-8026-098282452dca">
 
 The Mission Statement of the Project is:
 
@@ -38,6 +37,19 @@ BIRDS-5 has 5 main missions in total; attitude visualisation, Imaging classifica
 
 ## Organisation structure
 
+```bash
+
+├── .gitattributes
+├── Antenna Panel
+├── BPB
+├── FAB
+├── OBC_EPS
+├── Rear_Access_Board
+└── Solar Panels
+    ├── 1U_PBan_Parts_List
+    └── 2U_PBan Parts Lists
+
+```
 
 ## Features
 
